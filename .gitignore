@@ -1,0 +1,5 @@
+build/
+.vscode/
+*.svg
+.clang-format
+.cmake-format

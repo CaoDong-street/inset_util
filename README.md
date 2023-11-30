@@ -1,2 +1,3 @@
-# inset_util
-C++ package that implements Insetting Formation(IF) algorithm.
+# InsetUtil
+
+InsetUtil is a C++ package that implements Insetting Formation(IF) algorithm.
